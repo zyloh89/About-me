@@ -16,6 +16,11 @@
 
     }
     
+    .container{
+
+        margin: 0 auto;
+    }
+    
     .h1 {
 
         color: #eeeeee;
